@@ -41,7 +41,7 @@ Feel free to help us make these cards less ugly or to explore new bingo topics! 
 Install from GitHub with:
 
 ```{r eval = FALSE}
-# install.packages("devtools")
+install.packages("devtools")
 devtools::install_github("jennybc/bingo")
 ```
 
